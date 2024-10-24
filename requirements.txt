@@ -7,4 +7,3 @@ dill
 XGBoost
 catBoost
 Flask
-pickle
